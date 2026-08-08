@@ -83,7 +83,8 @@ Infrastructure
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-devops-engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-devops-engineer/)
 
-🐙 [GitHub](https://github.com/abhisheksingh-devops)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksingh-devops)
 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabhisheksingh3399@gmail.com)
