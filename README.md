@@ -36,12 +36,22 @@ CI/CD pipelines for automated infrastructure deployment.
 
 ## 🛠️ Tech Stack
 
-**Cloud:** Azure  
-**IaC:** Terraform  
-**DevOps:** Azure DevOps, CI/CD  
-**Version Control:** Git, GitHub  
-**OS:** Linux  
+## 🛠️ Tech Stack
 
+### ☁️ Cloud & Infrastructure
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🔄 DevOps & CI/CD
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🐧 Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## 📚 Currently Learning
