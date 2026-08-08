@@ -81,10 +81,13 @@ Azure
 Infrastructure
 ---
 
-**## 📫 Connect With Me**
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-devops-engineer/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksingh-devops)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabhisheksingh3399@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-singh-devops-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhisheksingh-devops">
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
