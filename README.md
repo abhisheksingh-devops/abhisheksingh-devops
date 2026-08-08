@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Abhishek Singh
 
-<!--
-**abhisheksingh-devops/abhisheksingh-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | Azure | Terraform | CI/CD
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Azure
+🏗️ Terraform
+🔄 CI/CD
+🐧 Linux
+🔧 Git
+⚙️ Azure DevOps
+
+Featured Projects
+
+🚀 Terraform Azure Landing Zone
+🚀 Azure Infrastructure
+🚀 Terraform Modules
+🚀 Azure DevOps CI/CD
+
+Tech Stack
+
+Azure | Terraform | Git | Linux | Azure DevOps
+
+Currently Learning
+
+DevSecOps
+Cloud Automation
+Advanced Terraform
+
+Connect With Me
+
+LinkedIn | GitHub
