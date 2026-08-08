@@ -67,6 +67,12 @@ Terraform
 Azure
  ↓
 Infrastructure
-Connect With Me
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abhishek-singh-devops-engineer)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/abhisheksingh-devops)
 
 LinkedIn | GitHub
