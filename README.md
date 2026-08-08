@@ -1,33 +1,72 @@
-👋 Hi, I'm Abhishek Singh
+# 👋 Hi, I'm Abhishek Singh
 
-DevOps Engineer | Azure | Terraform | CI/CD
+### 🚀 DevOps Engineer | Azure | Terraform | CI/CD
 
-About Me
+I'm a DevOps Engineer focused on cloud infrastructure,
+Infrastructure as Code, automation and CI/CD.
 
-☁️ Azure
-🏗️ Terraform
-🔄 CI/CD
-🐧 Linux
-🔧 Git
-⚙️ Azure DevOps
+---
 
-Featured Projects
+## 👨‍💻 About Me
 
-🚀 Terraform Azure Landing Zone
-🚀 Azure Infrastructure
-🚀 Terraform Modules
-🚀 Azure DevOps CI/CD
+☁️ Azure  
+🏗️ Terraform  
+🔄 CI/CD  
+🐧 Linux  
+🔧 Git  
+⚙️ Azure DevOps  
 
-Tech Stack
+---
 
-Azure | Terraform | Git | Linux | Azure DevOps
+## 🚀 Featured Projects
 
-Currently Learning
+### ☁️ Terraform Azure Landing Zone
+Azure Landing Zone infrastructure using Terraform and Infrastructure as Code.
 
-DevSecOps
-Cloud Automation
-Advanced Terraform
+### 🏗️ Azure Infrastructure
+Azure infrastructure provisioning using Terraform.
 
+### 🔧 Terraform Modules
+Reusable Terraform modules for Azure resources.
+
+### 🔄 Azure DevOps CI/CD
+CI/CD pipelines for automated infrastructure deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud:** Azure  
+**IaC:** Terraform  
+**DevOps:** Azure DevOps, CI/CD  
+**Version Control:** Git, GitHub  
+**OS:** Linux  
+
+---
+
+## 📚 Currently Learning
+
+- DevSecOps
+- Cloud Automation
+- Advanced Terraform
+- CI/CD Automation
+
+---
+
+## 📊 DevOps Focus
+
+```text
+Git
+ ↓
+Pull Request
+ ↓
+CI/CD Pipeline
+ ↓
+Terraform
+ ↓
+Azure
+ ↓
+Infrastructure
 Connect With Me
 
 LinkedIn | GitHub
