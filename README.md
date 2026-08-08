@@ -36,10 +36,6 @@ CI/CD pipelines for automated infrastructure deployment.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
 ### ☁️ Cloud & Infrastructure
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
