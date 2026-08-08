@@ -75,4 +75,4 @@ Infrastructure
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/abhisheksingh-devops)
 
-LinkedIn | GitHub
+
