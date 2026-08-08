@@ -82,11 +82,3 @@ Azure
  ↓
 Infrastructure
 ---
----
-
-
-## 📫 Connect With Me
-
-[🔵 LinkedIn](https://www.linkedin.com/in/abhishek-singh-devops-engineer/)
-
-[⚫ GitHub](https://github.com/abhisheksingh-devops)
