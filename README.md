@@ -64,6 +64,8 @@ CI/CD pipelines for automated infrastructure deployment.
 - CI/CD Automation
 
 ---
+📫 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/abhishek-singh-devops-engineer/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/abhisheksingh-devops"> <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> ```
 
 ## 📊 DevOps Focus
 
