@@ -2,83 +2,110 @@
 
 ### 🚀 DevOps Engineer | Azure | Terraform | CI/CD
 
-I'm a DevOps Engineer focused on cloud infrastructure,
-Infrastructure as Code, automation and CI/CD.
+I’m a DevOps Engineer focused on **Cloud Infrastructure, Infrastructure as Code, CI/CD Automation, and Azure**.
 
----
-
-## 👨‍💻 About Me
-
-☁️ Azure  
-🏗️ Terraform  
-🔄 CI/CD  
-🐧 Linux  
-🔧 Git  
-⚙️ Azure DevOps  
-
----
-
-## 🚀 Featured Projects
-
-### ☁️ Terraform Azure Landing Zone
-Azure Landing Zone infrastructure using Terraform and Infrastructure as Code.
-
-### 🏗️ Azure Infrastructure
-Azure infrastructure provisioning using Terraform.
-
-### 🔧 Terraform Modules
-Reusable Terraform modules for Azure resources.
-
-### 🔄 Azure DevOps CI/CD
-CI/CD pipelines for automated infrastructure deployment.
+I build and automate cloud infrastructure using **Terraform, Microsoft Azure, Git, GitHub, and Azure DevOps**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+**Cloud**
 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
+* ☁️ Microsoft Azure
+* Azure Virtual Machines
+* Resource Groups
+* Virtual Networks
+* Subnets
+* NSGs
+* Azure Storage
 
-### 🔄 DevOps & CI/CD
+**Infrastructure as Code**
 
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/products/devops/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+* 🏗️ Terraform
+* Terraform Modules
+* Remote State
+* Infrastructure Automation
 
-### 🐧 Operating System
+**DevOps & CI/CD**
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+* 🔄 Azure DevOps
+* Azure Pipelines
+* CI/CD
+* Git
+* GitHub
+* YAML
 
-### 🔐 Infrastructure & Automation
+**Operating Systems**
 
-[![IaC](https://img.shields.io/badge/Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+* 🐧 Linux
+* Windows
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Azure Infrastructure Automation using Terraform
+
+Automated Azure infrastructure provisioning using Terraform.
+
+**Highlights:**
+
+* Resource Groups
+* Virtual Networks
+* Subnets
+* Network Security Groups
+* Reusable Terraform Modules
+* Infrastructure as Code
+* Git & GitHub
+* Azure DevOps CI/CD
+
+**Tech:** `Azure` `Terraform` `Git` `GitHub` `Azure DevOps`
+
+---
+
+### 🔹 Azure DevOps CI/CD Pipeline
+
+Designed CI/CD pipelines for automating Terraform infrastructure workflows.
+
+**Highlights:**
+
+* YAML pipelines
+* Terraform Init
+* Terraform Plan
+* Terraform Apply
+* Azure Service Connection
+* Remote Terraform State
+* Self-hosted Agent
+
+**Tech:** `Azure DevOps` `Terraform` `YAML` `Azure`
+
+---
 
 ## 📚 Currently Learning
 
-- DevSecOps
-- Cloud Automation
-- Advanced Terraform
-- CI/CD Automation
+* ☁️ Azure Cloud
+* 🏗️ Terraform
+* 🔄 CI/CD Automation
+* 🔐 DevSecOps
+* 🐧 Linux
+* 📦 Infrastructure as Code
 
 ---
-📫 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/abhishek-singh-devops-engineer/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/abhisheksingh-devops"> <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> ```
 
-## 📊 DevOps Focus
+## 🎯 Career Focus
 
-```text
-Git
- ↓
-Pull Request
- ↓
-CI/CD Pipeline
- ↓
-Terraform
- ↓
-Azure
- ↓
-Infrastructure
+**DevOps Engineer | Cloud DevOps Engineer | Azure DevOps Engineer**
+
+I’m interested in building scalable, automated, and secure cloud infrastructure while improving deployment efficiency through DevOps practices.
+
 ---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** Abhishek Singh
+🐙 **GitHub:** abhisheksingh-devops
+
+---
+
+⭐ **Thanks for visiting my profile!**
